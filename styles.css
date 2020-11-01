@@ -52,6 +52,9 @@ body{
     font-weight: bold;
     text-decoration: none;
 }
+#menu a:hover{
+    text-decoration: underline;
+}
 
 h1{
     font-size: 1.65em;
